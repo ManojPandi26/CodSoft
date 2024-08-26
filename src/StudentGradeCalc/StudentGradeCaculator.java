@@ -8,7 +8,6 @@ public class StudentGradeCaculator {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
 		int numSubjects;
 		do {
 			System.out.print("Enter the number of subjects (1-10): ");
