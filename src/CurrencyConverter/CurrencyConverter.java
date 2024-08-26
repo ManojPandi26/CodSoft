@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 import org.json.JSONObject;
 
 public class CurrencyConverter {
-    private static final String API_KEY = "6cb39ae0f3b74ac19da056bb";
+    private static final String API_KEY = "6cb39ae0f3b74ac19da056bb"; //YOUR_API_KEY.
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
