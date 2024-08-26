@@ -60,7 +60,6 @@ public class Game {
 			} else {
 				System.out.println("Too high.");
 			}
-
 		}
 		sc.close();
 		System.out.println("Sorry, your attempts are out for Round  " + roundnum + ".");
