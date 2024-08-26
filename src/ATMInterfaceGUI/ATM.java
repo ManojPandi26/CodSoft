@@ -10,7 +10,6 @@ import java.util.Locale;
 import javax.swing.*;
 
 public class ATM extends JFrame {
-
     private Account account;
     private JLabel balanceLabel;
     private JTextField amountField;
